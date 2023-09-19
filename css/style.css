@@ -19,10 +19,19 @@ h1{
     vertical-align: middle;
 }
 
+main{
+    background-color: whitesmoke;
+}
 .container{
-    width: 80%;
+    width: 60%;
     margin: auto;
     padding: 16px 16px;
+    background-color: white;
+}
+
+.button{
+    padding-top: 30px;
+    margin-left: 50px;
 }
 
 .task{
@@ -40,6 +49,87 @@ h1{
     font-size: 15px;
     color: gray;
     border-radius: 10px;
+}
+
+.corpo{
+    padding-top: 60px;
+    margin-left: 50px;
+    line-height: 40px;
+    padding-bottom: 40px;
+}
+
+.first-circle{
+    border: 1px solid #63BEA9;
+    border-radius: 90%;
+    padding: 3px;
+    color: #63BEA9;
+}
+
+.edit{
+    background-color: #47A9E8;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 10px;
+    color: white;
+}
+
+.oggi{
+    margin-left: 50px;
+    line-height: 40px;
+    padding-bottom: 40px;
+}
+
+.goal{
+    background-color: #9C72E3;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 10px;
+    color: white;
+}
+
+.second-circle{
+    border: 1px solid red;
+    border-radius: 90%;
+    padding: 3px;
+    color: red;
+}
+
+.recrute{
+    background-color: #63BEA9;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 10px;
+    color: white;
+}
+
+.mobile{
+    background-color: #F39C34;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 10px;
+    color: white;
+}
+
+.upcoming{
+    margin-left: 50px;
+    line-height: 40px;
+    padding-bottom: 40px;
+}
+
+.internet{
+    background-color: #D563A0;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 10px;
+    color: white;
+}
+
+.sales{
+    background-color: #B1C729;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 10px;
+    color: white;
 }
 
 
